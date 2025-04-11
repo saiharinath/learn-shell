@@ -3,3 +3,5 @@
 bash shell
 
 practicing bash here
+
+1.printing the echo command
